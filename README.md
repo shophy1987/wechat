@@ -1,2 +1,2 @@
 # wechat
-微信公众号sdk
+WeChat Official Accounts SDK
